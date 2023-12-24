@@ -1,0 +1,1 @@
+web gunicorn STUDYBUD-DRINI.wsgi:apllication --log-file -
